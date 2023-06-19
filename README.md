@@ -1,5 +1,5 @@
 # MachineLearningProject
-Machine Learning in Treatment Recommendation Systems
+Machine Learning in Treatment Recommendation Systems;
 Team Members:
 Rohith Reddy Burla - 700742812
 Anjani Naga Venkata Siva Sai Krishna Rathamsetti - 700742763
